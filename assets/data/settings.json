@@ -1,0 +1,16 @@
+{
+  "tax_rate": 10,
+  "exclude_tax": true,
+  "display_tax": false,
+  "atm_text_entry": true,
+  "show_keybody": false,
+  "rounding": "tip",
+  "index": 0,
+  "tip_values": {
+    "content1": 10,
+    "content2": 12,
+    "content3": 15,
+    "content4": 18,
+    "content5": 20
+  }
+}
